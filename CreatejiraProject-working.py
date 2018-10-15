@@ -15,4 +15,4 @@ data1 = {
     'name': 'NEWPROJNAME55'
 }
 
-response = requests.post(url=API_URL, headers=headers, auth=('c261779', 'Sailu1719'), data=json.dumps(data1))
+response = requests.post(url=API_URL, headers=headers, auth=('c261779', 'XXXXXXX'), data=json.dumps(data1))
